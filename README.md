@@ -7,6 +7,7 @@ This is enough to solve easy puzzles, but cannot solve harder puzzles which depe
 
 ### Output
 
+```bash
 [4, 2, 3, 5, 9, 7, 1, 6, 8]
 [1, 7, 9, 6, 4, 8, 3, 5, 2]
 [6, 5, 8, 1, 2, 3, 9, 4, 7]
@@ -18,3 +19,4 @@ This is enough to solve easy puzzles, but cannot solve harder puzzles which depe
 [9, 3, 2, 7, 5, 6, 4, 8, 1]
 
 Solved Sudoku in 8 iterations!
+```
